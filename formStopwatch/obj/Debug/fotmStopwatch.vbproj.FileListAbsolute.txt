@@ -1,0 +1,40 @@
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\bin\Debug\fotmStopwatch.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\bin\Debug\fotmStopwatch.exe
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\bin\Debug\fotmStopwatch.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\bin\Debug\fotmStopwatch.xml
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\obj\Debug\fotmStopwatch.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\obj\Debug\fotmStopwatch.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\obj\Debug\fotmStopwatch.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\obj\Debug\fotmStopwatch.exe
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\obj\Debug\fotmStopwatch.xml
+C:\Users\admin\AppData\Local\Temporary Projects\fotmStopwatch\obj\Debug\fotmStopwatch.pdb
+D:\Educational\College Study\VP Codes\fotmStopwatch\bin\Debug\fotmStopwatch.exe.config
+D:\Educational\College Study\VP Codes\fotmStopwatch\obj\Debug\fotmStopwatch.exe
+D:\Educational\College Study\VP Codes\fotmStopwatch\obj\Debug\fotmStopwatch.xml
+D:\Educational\College Study\VP Codes\fotmStopwatch\obj\Debug\fotmStopwatch.pdb
+D:\Educational\College Study\VP Codes\fotmStopwatch\obj\Debug\fotmStopwatch.Form1.resources
+D:\Educational\College Study\VP Codes\fotmStopwatch\obj\Debug\fotmStopwatch.Resources.resources
+D:\Educational\College Study\VP Codes\fotmStopwatch\obj\Debug\fotmStopwatch.vbproj.GenerateResource.Cache
+D:\Educational\College Study\VP Codes\fotmStopwatch\bin\Debug\fotmStopwatch.exe
+D:\Educational\College Study\VP Codes\fotmStopwatch\bin\Debug\fotmStopwatch.pdb
+D:\Educational\College Study\VP Codes\fotmStopwatch\bin\Debug\fotmStopwatch.xml
+D:\Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.exe.config
+D:\Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.exe
+D:\Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.xml
+D:\Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.pdb
+D:\Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.exe
+D:\Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.pdb
+D:\Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.xml
+D:\Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.Form1.resources
+D:\Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.Resources.resources
+D:\Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.vbproj.GenerateResource.Cache
+D:\#Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.exe.config
+D:\#Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.exe
+D:\#Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.xml
+D:\#Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.pdb
+D:\#Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.exe
+D:\#Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.pdb
+D:\#Educational\College Study\VP Codes\formStopwatch\bin\Debug\fotmStopwatch.xml
+D:\#Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.Form1.resources
+D:\#Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.Resources.resources
+D:\#Educational\College Study\VP Codes\formStopwatch\obj\Debug\fotmStopwatch.vbproj.GenerateResource.Cache
